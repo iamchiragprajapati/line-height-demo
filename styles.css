@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.a {
+  line-height: normal;
+}
+
+.b {
+  line-height: 2.5;
+}
+
+.c {
+  line-height: 3em;
+}
+
+.d {
+  line-height: 150%;
+}
+
+.e {
+  line-height: 32px;
+}
+
+.common-box {
+  border: 1px solid black;
+}
